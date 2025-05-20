@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22823
-Fork on GitHub
-7597
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Habtewold Degfie !</h1>
 <h3 align="center">A passionate software engineering student from Ethiopia, exploring mobile, web, and secure system development.</h3>
 
