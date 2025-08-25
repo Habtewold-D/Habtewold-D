@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently Studying ****Software Engineering** at Addis Ababa University.**
 
-- 👀 I’m interested in: **- 📱 Mobile & Web Development - 🔐 Cybersecurity - 🤖 Artificial Intelligence**
+- 👀 I’m interested in: **- 📱 Mobile & Web Development - 🤖 Artificial Intelligence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
